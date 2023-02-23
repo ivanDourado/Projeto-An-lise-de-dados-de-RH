@@ -1,4 +1,4 @@
-# Projeto-An-lise-de-dados-de-RH
+# Projeto-Análise-de-dados-de-RH
 Neste projeto fiz uma sequência completa de análise descritiva, diagnóstica e estatística de dados de RH (Recursos Humanos). Usei dados reais disponíveis publicamente (https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists) e apliquei diversas técnicas de análise de dados.
 
 Este conjunto de dados foi desenvolvido para entender os fatores que levam uma pessoa
